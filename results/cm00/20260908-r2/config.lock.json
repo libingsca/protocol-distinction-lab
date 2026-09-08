@@ -1,0 +1,45 @@
+{
+  "experiment": "CM00-R2",
+  "version": "0.1",
+  "primary_alpha": 0.5,
+  "robustness_alphas": [
+    0.25,
+    0.5,
+    1.0
+  ],
+  "learning_rate": 1.0,
+  "steps": [
+    0,
+    1,
+    2,
+    4,
+    8,
+    16,
+    32
+  ],
+  "numeric_epsilon": 1e-12,
+  "strong_barrier_epsilon": 1e-06,
+  "spaces": [
+    {
+      "name": "R2_A_five_states",
+      "n_x": 5,
+      "n_z": 1,
+      "n_messages": 2,
+      "n_labels": 2
+    },
+    {
+      "name": "R2_B_three_labels",
+      "n_x": 4,
+      "n_z": 1,
+      "n_messages": 2,
+      "n_labels": 3
+    },
+    {
+      "name": "R2_C_three_messages_side_info",
+      "n_x": 4,
+      "n_z": 2,
+      "n_messages": 3,
+      "n_labels": 2
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "seed_count": 30,
+  "median_c0_ce": -0.10216483884854805,
+  "median_c2_ce": 0.08796877319851609,
+  "median_c32_ce": 0.37476611569129437,
+  "median_accuracy_gain_t2": 0.0,
+  "median_random_c2_ce": -0.3319723577680839,
+  "median_noninfo_c2_ce": -0.3112279484002706,
+  "median_spare_c0_ce": -4.4495468420890916e-09,
+  "median_spare_c2_ce": 0.13030191244171782,
+  "median_spare_barrier_reduction": 0.9999956067626774,
+  "median_pretrain_error": 2.9554603554748926e-07,
+  "median_soft_path_max_loss_increase": 0.10216483884854805,
+  "sign_success_seeds": 30,
+  "target_a_code": 1.0,
+  "source_a_code": 0.8,
+  "target_mi": 1.5219280948873621,
+  "source_mi": 0.9709505944546686,
+  "checks": {
+    "c0": true,
+    "c2": true,
+    "accuracy": false,
+    "information": true,
+    "random": true,
+    "spare": true,
+    "signs": true
+  },
+  "passed": false
+}

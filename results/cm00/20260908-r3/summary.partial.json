@@ -1,0 +1,334 @@
+[
+  {
+    "space": {
+      "name": "R3_A_x6_binary",
+      "n_x": 6,
+      "n_z": 1,
+      "n_messages": 2,
+      "n_labels": 2
+    },
+    "task_count": 62,
+    "solvable_task_count": 62,
+    "sender_count": 62,
+    "partition_count": 31,
+    "candidate_pairs": 57660,
+    "informative_no_tie_pairs": 4800,
+    "minimum_c0_ce_alpha_0_5": 0.0,
+    "minimum_c0_ce_alpha_0_25": 0.0,
+    "c0_zero_pairs": 1320,
+    "strict_negative_pairs": 0,
+    "matured_p1_counterexamples": 0,
+    "graph_eligible_starts": 1200,
+    "positive_barrier_e1": 0,
+    "positive_barrier_e1_e2": 0,
+    "unreachable_e1": 0,
+    "unreachable_e1_e2": 0,
+    "p2_counterexamples": 0,
+    "audit_states": 3844,
+    "audit_mismatches": 0,
+    "closest_case": {
+      "space": "R3_A_x6_binary",
+      "task": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "source": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "target_partition": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "aligned_target": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "c0_ce": 0.0,
+      "delta_accuracy": 0.16666666666666663,
+      "delta_mi": 0.6016067457394687,
+      "decimal_c0_ce": "0E-60"
+    }
+  },
+  {
+    "space": {
+      "name": "R3_C_x5_side_info",
+      "n_x": 5,
+      "n_z": 2,
+      "n_messages": 2,
+      "n_labels": 2
+    },
+    "task_count": 1022,
+    "solvable_task_count": 182,
+    "sender_count": 30,
+    "partition_count": 15,
+    "candidate_pairs": 38220,
+    "informative_no_tie_pairs": 1200,
+    "minimum_c0_ce_alpha_0_5": -0.025131442828090655,
+    "minimum_c0_ce_alpha_0_25": 0.005381310206000134,
+    "c0_zero_pairs": 0,
+    "strict_negative_pairs": 160,
+    "matured_p1_counterexamples": 160,
+    "graph_eligible_starts": 1200,
+    "positive_barrier_e1": 160,
+    "positive_barrier_e1_e2": 160,
+    "unreachable_e1": 0,
+    "unreachable_e1_e2": 0,
+    "p2_counterexamples": 160,
+    "audit_states": 30660,
+    "audit_mismatches": 0,
+    "closest_case": {
+      "space": "R3_C_x5_side_info",
+      "task": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "source": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "target_partition": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "aligned_target": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "c0_ce": -0.025131442828090655,
+      "delta_accuracy": 0.09999999999999998,
+      "delta_mi": 0.3245112497836532,
+      "decimal_c0_ce": "-0.025131442828090607768513773040187167965789638606363771501000"
+    }
+  },
+  {
+    "space": {
+      "name": "R3_D_x5_three_labels",
+      "n_x": 5,
+      "n_z": 1,
+      "n_messages": 2,
+      "n_labels": 3
+    },
+    "task_count": 240,
+    "solvable_task_count": 90,
+    "sender_count": 30,
+    "partition_count": 15,
+    "candidate_pairs": 18900,
+    "informative_no_tie_pairs": 600,
+    "minimum_c0_ce_alpha_0_5": -0.03530430001376006,
+    "minimum_c0_ce_alpha_0_25": 0.0258104310502143,
+    "c0_zero_pairs": 0,
+    "strict_negative_pairs": 120,
+    "matured_p1_counterexamples": 120,
+    "graph_eligible_starts": 600,
+    "positive_barrier_e1": 120,
+    "positive_barrier_e1_e2": 120,
+    "unreachable_e1": 0,
+    "unreachable_e1_e2": 0,
+    "p2_counterexamples": 120,
+    "audit_states": 7200,
+    "audit_mismatches": 0,
+    "closest_case": {
+      "space": "R3_D_x5_three_labels",
+      "task": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "source": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "target_partition": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "aligned_target": [
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "c0_ce": -0.03530430001376006,
+      "delta_accuracy": 0.19999999999999996,
+      "delta_mi": 0.6490224995673064,
+      "decimal_c0_ce": "-0.035304300013760066549353957069027418816093203254127370051264"
+    }
+  },
+  {
+    "space": {
+      "name": "R3_B_x7_binary",
+      "n_x": 7,
+      "n_z": 1,
+      "n_messages": 2,
+      "n_labels": 2
+    },
+    "task_count": 126,
+    "solvable_task_count": 126,
+    "sender_count": 126,
+    "partition_count": 63,
+    "candidate_pairs": 492156,
+    "informative_no_tie_pairs": 25088,
+    "minimum_c0_ce_alpha_0_5": 0.01907591323207447,
+    "minimum_c0_ce_alpha_0_25": -0.02851103948124667,
+    "c0_zero_pairs": 0,
+    "strict_negative_pairs": 0,
+    "matured_p1_counterexamples": 0,
+    "graph_eligible_starts": 4508,
+    "positive_barrier_e1": 0,
+    "positive_barrier_e1_e2": 0,
+    "unreachable_e1": 0,
+    "unreachable_e1_e2": 0,
+    "p2_counterexamples": 0,
+    "audit_states": 15876,
+    "audit_mismatches": 0,
+    "closest_case": {
+      "space": "R3_B_x7_binary",
+      "task": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "source": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "target_partition": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "aligned_target": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1
+      ],
+      "c0_ce": 0.01907591323207447,
+      "delta_accuracy": 0.1428571428571428,
+      "delta_mi": 0.17787321397664735,
+      "decimal_c0_ce": "0.019075913232074660449477660133049996369916524785557796271809"
+    }
+  },
+  {
+    "space": {
+      "name": "R3_E_x5_m3_y3",
+      "n_x": 5,
+      "n_z": 1,
+      "n_messages": 3,
+      "n_labels": 3
+    },
+    "task_count": 240,
+    "solvable_task_count": 240,
+    "sender_count": 150,
+    "partition_count": 25,
+    "candidate_pairs": 144000,
+    "informative_no_tie_pairs": 4320,
+    "minimum_c0_ce_alpha_0_5": -0.10216512475319817,
+    "minimum_c0_ce_alpha_0_25": -0.16945957207744078,
+    "c0_zero_pairs": 0,
+    "strict_negative_pairs": 360,
+    "matured_p1_counterexamples": 360,
+    "graph_eligible_starts": 1620,
+    "positive_barrier_e1": 180,
+    "positive_barrier_e1_e2": 180,
+    "unreachable_e1": 0,
+    "unreachable_e1_e2": 0,
+    "p2_counterexamples": 180,
+    "audit_states": 36000,
+    "audit_mismatches": 0,
+    "closest_case": {
+      "space": "R3_E_x5_m3_y3",
+      "task": [
+        0,
+        1,
+        2,
+        0,
+        1
+      ],
+      "source": [
+        0,
+        1,
+        1,
+        2,
+        1
+      ],
+      "target_partition": [
+        0,
+        1,
+        2,
+        0,
+        1
+      ],
+      "aligned_target": [
+        0,
+        1,
+        2,
+        0,
+        1
+      ],
+      "c0_ce": -0.10216512475319817,
+      "delta_accuracy": 0.19999999999999996,
+      "delta_mi": 0.5509775004326936,
+      "decimal_c0_ce": "-0.102165124753198136641102819260732386975622159289153654035590"
+    }
+  }
+]

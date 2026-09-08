@@ -1,0 +1,55 @@
+{
+  "experiment": "CM00-R3",
+  "version": "0.1",
+  "primary_alpha": 0.5,
+  "secondary_alpha": 0.25,
+  "learning_rate": 1.0,
+  "steps": [
+    0,
+    1,
+    2,
+    4,
+    8,
+    16,
+    32
+  ],
+  "numeric_epsilon": 1e-12,
+  "counterexample_epsilon": 1e-09,
+  "spaces": [
+    {
+      "name": "R3_A_x6_binary",
+      "n_x": 6,
+      "n_z": 1,
+      "n_messages": 2,
+      "n_labels": 2
+    },
+    {
+      "name": "R3_C_x5_side_info",
+      "n_x": 5,
+      "n_z": 2,
+      "n_messages": 2,
+      "n_labels": 2
+    },
+    {
+      "name": "R3_D_x5_three_labels",
+      "n_x": 5,
+      "n_z": 1,
+      "n_messages": 2,
+      "n_labels": 3
+    },
+    {
+      "name": "R3_B_x7_binary",
+      "n_x": 7,
+      "n_z": 1,
+      "n_messages": 2,
+      "n_labels": 2
+    },
+    {
+      "name": "R3_E_x5_m3_y3",
+      "n_x": 5,
+      "n_z": 1,
+      "n_messages": 3,
+      "n_labels": 3
+    }
+  ]
+}

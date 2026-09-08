@@ -1,0 +1,14 @@
+{
+  "started_at": "2026-09-08T00:34:45.146860+00:00",
+  "python": "3.13.2 (main, Feb  4 2025, 14:51:09) [Clang 16.0.0 (clang-1600.0.26.6)]",
+  "executable": "/Users/bing/workspace/libing.sca/protocol-distinction-lab/.venv/bin/python",
+  "numpy": "2.3.5",
+  "platform": "macOS-26.5-x86_64-i386-64bit-Mach-O",
+  "dependencies": "numpy==2.3.5\n# Editable Git install with no remote (protocol-distinction-lab==0.1.0)\n-e /Users/bing/workspace/libing.sca/protocol-distinction-lab\n",
+  "git_status": "?? .gitattributes\n?? .github/\n?? .gitignore\n?? AGENTS.md\n?? Makefile\n?? README.md\n?? docs/\n?? evidence_readonly/\n?? experiments/\n?? pyproject.toml\n?? requirements/\n?? results/\n?? src/\n?? tests/\n",
+  "command": [
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/src/pb02/run.py",
+    "--output",
+    "outputs/pb02/20260908-pb02-independent-confirmation"
+  ]
+}

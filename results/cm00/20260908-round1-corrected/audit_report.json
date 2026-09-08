@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "details": [
+    {
+      "space": "level1_no_side_info",
+      "states_checked": 196,
+      "accuracy_mismatches": 0
+    },
+    {
+      "space": "level2_receiver_side_info",
+      "states_checked": 3556,
+      "accuracy_mismatches": 0
+    }
+  ]
+}

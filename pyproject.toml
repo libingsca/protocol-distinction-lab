@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "protocol-distinction-lab"
+version = "0.1.0"
+description = "Falsifiable experiments on credit, distinction generation, and protocol formation"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=2.0,<3",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,62 @@
+{
+  "passed": true,
+  "details": {
+    "mlp8": {
+      "row_count": 30,
+      "independent_gates": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    "mlp4": {
+      "row_count": 30,
+      "independent_gates": [
+        true,
+        true,
+        true,
+        false,
+        false,
+        true,
+        true
+      ]
+    },
+    "mlp16": {
+      "row_count": 30,
+      "independent_gates": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    "linear": {
+      "row_count": 30,
+      "independent_gates": [
+        true,
+        true,
+        true,
+        false,
+        false,
+        true,
+        true
+      ]
+    }
+  },
+  "checks": [
+    "locked configuration",
+    "source hashes unchanged",
+    "exact seed coverage",
+    "fixed targets",
+    "full branch arithmetic",
+    "first crossing times",
+    "seven independent gates"
+  ]
+}

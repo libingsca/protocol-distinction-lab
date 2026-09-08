@@ -1,0 +1,19 @@
+* text=auto eol=lf
+*.md text diff=markdown
+*.py text diff=python
+*.json text
+*.jsonl text
+*.csv text
+*.tar.gz binary
+
+# Preserve frozen evidence byte-for-byte, including historical line endings.
+results/** -text -whitespace
+evidence_readonly/** -text -whitespace
+
+# The imported source bytes are referenced by frozen source_hashes.json files.
+src/** -whitespace
+
+# Imported research records intentionally retain Markdown hard breaks.
+docs/project/architecture-and-roadmap.zh-CN.md -whitespace
+docs/preregistrations/** -whitespace
+docs/experiment-plans/** -whitespace

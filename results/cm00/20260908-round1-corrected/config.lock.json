@@ -1,0 +1,27 @@
+{
+  "experiment": "CM00",
+  "version": "0.1",
+  "alpha": 0.5,
+  "learning_rate": 1.0,
+  "steps": [
+    0,
+    1,
+    2,
+    4,
+    8,
+    16,
+    32
+  ],
+  "spaces": [
+    {
+      "name": "level1_no_side_info",
+      "n_x": 4,
+      "n_z": 1
+    },
+    {
+      "name": "level2_receiver_side_info",
+      "n_x": 4,
+      "n_z": 2
+    }
+  ]
+}

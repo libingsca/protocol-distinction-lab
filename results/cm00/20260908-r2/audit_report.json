@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "spaces": [
+    {
+      "space": "R2_A_five_states",
+      "states": 900,
+      "mismatches": 0
+    },
+    {
+      "space": "R2_B_three_labels",
+      "states": 1092,
+      "mismatches": 0
+    },
+    {
+      "space": "R2_C_three_messages_side_info",
+      "states": 9144,
+      "mismatches": 0
+    }
+  ]
+}

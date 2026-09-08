@@ -1,0 +1,150 @@
+[
+  {
+    "space": {
+      "name": "level1_no_side_info",
+      "n_x": 4,
+      "n_z": 1,
+      "n_messages": 2,
+      "n_labels": 2
+    },
+    "task_count": 14,
+    "solvable_task_count": 14,
+    "sender_count": 14,
+    "raw_candidate_pairs": 1176,
+    "raw_h1_cases": 192,
+    "canonical_h1_cases": 84,
+    "no_tie_h1_cases": 48,
+    "strict_negative_h1_cases": 0,
+    "matched_distance_controls": {
+      "1": {
+        "all": 480,
+        "informative_h1": 72,
+        "irrelevant": 240,
+        "strict_nonbeneficial": 240,
+        "matured_informative_h1": 48,
+        "matured_irrelevant": 0,
+        "matured_strict_nonbeneficial": 0,
+        "maturation_rate_informative_h1": 0.6666666666666666,
+        "maturation_rate_irrelevant": 0.0,
+        "maturation_rate_strict_nonbeneficial": 0.0
+      },
+      "2": {
+        "all": 504,
+        "informative_h1": 72,
+        "irrelevant": 432,
+        "strict_nonbeneficial": 432,
+        "matured_informative_h1": 24,
+        "matured_irrelevant": 0,
+        "matured_strict_nonbeneficial": 0,
+        "maturation_rate_informative_h1": 0.3333333333333333,
+        "maturation_rate_irrelevant": 0.0,
+        "maturation_rate_strict_nonbeneficial": 0.0
+      },
+      "3": {
+        "all": 192,
+        "informative_h1": 48,
+        "irrelevant": 96,
+        "strict_nonbeneficial": 96,
+        "matured_informative_h1": 48,
+        "matured_irrelevant": 0,
+        "matured_strict_nonbeneficial": 0,
+        "maturation_rate_informative_h1": 1.0,
+        "maturation_rate_irrelevant": 0.0,
+        "maturation_rate_strict_nonbeneficial": 0.0
+      }
+    },
+    "dynamic_matured_by_32": 120,
+    "dynamic_matured_canonical_by_32": 60,
+    "rewrite_kind_counts": {
+      "E2": 72,
+      "E1": 72,
+      "EP": 48
+    },
+    "strict_negative_cross_entropy_cases": 0,
+    "neutral_cross_entropy_cases": 120,
+    "preexisting_positive_cross_entropy_cases": 72,
+    "t_star_counts": {
+      "None": 72,
+      "1": 120
+    },
+    "graph_start_states": 96,
+    "positive_barrier_e1": 0,
+    "positive_barrier_e1_e2": 0,
+    "unreachable_e1": 0,
+    "unreachable_e1_e2": 0
+  },
+  {
+    "space": {
+      "name": "level2_receiver_side_info",
+      "n_x": 4,
+      "n_z": 2,
+      "n_messages": 2,
+      "n_labels": 2
+    },
+    "task_count": 254,
+    "solvable_task_count": 86,
+    "sender_count": 14,
+    "raw_candidate_pairs": 7224,
+    "raw_h1_cases": 1128,
+    "canonical_h1_cases": 492,
+    "no_tie_h1_cases": 288,
+    "strict_negative_h1_cases": 0,
+    "matched_distance_controls": {
+      "1": {
+        "all": 2928,
+        "informative_h1": 408,
+        "irrelevant": 1488,
+        "strict_nonbeneficial": 1488,
+        "matured_informative_h1": 288,
+        "matured_irrelevant": 24,
+        "matured_strict_nonbeneficial": 24,
+        "maturation_rate_informative_h1": 0.7058823529411765,
+        "maturation_rate_irrelevant": 0.016129032258064516,
+        "maturation_rate_strict_nonbeneficial": 0.016129032258064516
+      },
+      "2": {
+        "all": 3096,
+        "informative_h1": 432,
+        "irrelevant": 2664,
+        "strict_nonbeneficial": 2664,
+        "matured_informative_h1": 144,
+        "matured_irrelevant": 0,
+        "matured_strict_nonbeneficial": 0,
+        "maturation_rate_informative_h1": 0.3333333333333333,
+        "maturation_rate_irrelevant": 0.0,
+        "maturation_rate_strict_nonbeneficial": 0.0
+      },
+      "3": {
+        "all": 1200,
+        "informative_h1": 288,
+        "irrelevant": 624,
+        "strict_nonbeneficial": 624,
+        "matured_informative_h1": 288,
+        "matured_irrelevant": 24,
+        "matured_strict_nonbeneficial": 24,
+        "maturation_rate_informative_h1": 1.0,
+        "maturation_rate_irrelevant": 0.038461538461538464,
+        "maturation_rate_strict_nonbeneficial": 0.038461538461538464
+      }
+    },
+    "dynamic_matured_by_32": 720,
+    "dynamic_matured_canonical_by_32": 360,
+    "rewrite_kind_counts": {
+      "E2": 432,
+      "E1": 408,
+      "EP": 288
+    },
+    "strict_negative_cross_entropy_cases": 0,
+    "neutral_cross_entropy_cases": 720,
+    "preexisting_positive_cross_entropy_cases": 408,
+    "t_star_counts": {
+      "None": 408,
+      "1": 720
+    },
+    "graph_start_states": 552,
+    "positive_barrier_e1": 0,
+    "positive_barrier_e1_e2": 0,
+    "unreachable_e1": 0,
+    "unreachable_e1_e2": 0
+  }
+]
