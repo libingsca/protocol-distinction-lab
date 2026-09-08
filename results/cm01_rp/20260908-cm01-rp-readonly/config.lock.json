@@ -1,0 +1,62 @@
+{
+  "experiment": "CM01-RP",
+  "version": "1.0",
+  "splits": [
+    9001,
+    9002,
+    9003
+  ],
+  "inits": [
+    9201,
+    9202
+  ],
+  "arm": "J-GROUP16",
+  "checkpoint": "checkpoint.pt",
+  "mean_tv_max": 0.05,
+  "max_tv_max": 0.1,
+  "coverage_required_r": 16,
+  "logits_audit_atol": 0.0001,
+  "q": [
+    0,
+    1
+  ],
+  "r": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "messages": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "scope": "read-only structural diagnosis; no adaptation or candidate selection",
+  "precision": "PyTorch float32 inference; NumPy float64 probability distances",
+  "positive": "at least one q with occupied near pair AND missing necessary V"
+}

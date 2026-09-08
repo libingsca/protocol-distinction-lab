@@ -1,0 +1,8 @@
+{
+  "src/cm01_rp/__init__.py": "d750d7a3c1acd8285b3ec1291db672cb1c490dba6b6745018af637d52263965a",
+  "src/cm01_rp/audit.py": "a6b2b1481ff35ca4546993486e5b6169ddcf60709bd0aa61288b2bda4077357f",
+  "src/cm01_rp/metrics.py": "f830bba26a6cb4c60a4722aa1af8f81eea3212faf0d1ea3a293e2738e6697ab5",
+  "src/cm01_rp/run.py": "323eb989637d63f9abbc81e4250be0edbb673f5a412cedda34a90ee14b4e565b",
+  "tests/test_cm01_rp.py": "36386bfab5e04338cfbced61ce92ff058d66170957509ef0dad8a273c4e1d2fd",
+  "docs/experiment-plans/cm01-rp-frozen-20260908.zh-CN.md": "1e6879453838ef02fe029bb063e7329e01947d4513eeef20d50ae42c5fe7ad6a"
+}

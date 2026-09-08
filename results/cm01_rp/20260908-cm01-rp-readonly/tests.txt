@@ -1,0 +1,25 @@
+test_cross_entropy_barrier_zero_for_known_space (test_cm00.CM00Tests.test_cross_entropy_barrier_zero_for_known_space) ... ok
+test_dynamic_curve_matures (test_cm00.CM00Tests.test_dynamic_curve_matures) ... ok
+test_independent_receiver_agrees (test_cm00.CM00Tests.test_independent_receiver_agrees) ... ok
+test_message_rename_invariance (test_cm00.CM00Tests.test_message_rename_invariance) ... ok
+test_preregistered_counterexample (test_cm00.CM00Tests.test_preregistered_counterexample) ... ok
+test_target_partition_uses_compatible_message_names (test_cm00.CM00Tests.test_target_partition_uses_compatible_message_names) ... ok
+test_three_label_receiver (test_cm00.CM00Tests.test_three_label_receiver) ... ok
+test_three_message_relabeling (test_cm00.CM00Tests.test_three_message_relabeling) ... ok
+test_joint_probabilities_and_distance_extremes (test_cm01_rp.CM01RPTests.test_joint_probabilities_and_distance_extremes) ... ok
+test_missing_unnecessary_class_does_not_trigger_positive (test_cm01_rp.CM01RPTests.test_missing_unnecessary_class_does_not_trigger_positive) ... ok
+test_one_wrong_context_fails_full_coverage (test_cm01_rp.CM01RPTests.test_one_wrong_context_fails_full_coverage) ... ok
+test_sufficient_protocol_covers_all_classes (test_cm01_rp.CM01RPTests.test_sufficient_protocol_covers_all_classes) ... ok
+test_unused_duplicate_does_not_trigger_positive (test_cm01_rp.CM01RPTests.test_unused_duplicate_does_not_trigger_positive) ... ok
+test_used_duplicate_plus_missing_class_is_positive (test_cm01_rp.CM01RPTests.test_used_duplicate_plus_missing_class_is_positive) ... ok
+test_receiver_pretraining_matches_smoothed_conditionals (test_pb01.PB01Tests.test_receiver_pretraining_matches_smoothed_conditionals) ... ok
+test_every_gate_is_required (test_pb02.PB02Tests.test_every_gate_is_required) ... ok
+test_frozen_settings_and_seed_isolation (test_pb02.PB02Tests.test_frozen_settings_and_seed_isolation) ... ok
+test_linear_gradient_matches_finite_difference (test_pb02.PB02Tests.test_linear_gradient_matches_finite_difference) ... ok
+test_output_is_never_overwritten (test_pb02.PB02Tests.test_output_is_never_overwritten) ... ok
+test_rejects_missing_duplicate_and_old_seeds (test_pb02.PB02Tests.test_rejects_missing_duplicate_and_old_seeds) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.328s
+
+OK

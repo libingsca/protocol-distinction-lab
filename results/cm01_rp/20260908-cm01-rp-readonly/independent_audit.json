@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "model": "9001_9201_J-GROUP16",
+      "passed": true
+    },
+    {
+      "model": "9001_9202_J-GROUP16",
+      "passed": true
+    },
+    {
+      "model": "9002_9201_J-GROUP16",
+      "passed": true
+    },
+    {
+      "model": "9002_9202_J-GROUP16",
+      "passed": true
+    },
+    {
+      "model": "9003_9201_J-GROUP16",
+      "passed": true
+    },
+    {
+      "model": "9003_9202_J-GROUP16",
+      "passed": true
+    }
+  ],
+  "scope": "independent product distributions, TV, JS, semantic coverage, occupancy and structural gates"
+}

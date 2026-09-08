@@ -1,0 +1,368 @@
+{
+  "scope": "final evaluation only, not training replay",
+  "numpy": "1.26.4",
+  "torch": "2.2.2",
+  "passed": true,
+  "checks": [
+    {
+      "model": "9001_9201_J-ROW16",
+      "partition": "train",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9001_9201_J-ROW16",
+      "partition": "validation",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9001_9201_J-ROW16",
+      "partition": "test",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9001_9201_J-GROUP16",
+      "partition": "train",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9001_9201_J-GROUP16",
+      "partition": "validation",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9001_9201_J-GROUP16",
+      "partition": "test",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9001_9202_J-ROW16",
+      "partition": "train",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9001_9202_J-ROW16",
+      "partition": "validation",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9001_9202_J-ROW16",
+      "partition": "test",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9001_9202_J-GROUP16",
+      "partition": "train",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9001_9202_J-GROUP16",
+      "partition": "validation",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9001_9202_J-GROUP16",
+      "partition": "test",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9002_9201_J-ROW16",
+      "partition": "train",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9002_9201_J-ROW16",
+      "partition": "validation",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9002_9201_J-ROW16",
+      "partition": "test",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9002_9201_J-GROUP16",
+      "partition": "train",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9002_9201_J-GROUP16",
+      "partition": "validation",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9002_9201_J-GROUP16",
+      "partition": "test",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9002_9202_J-ROW16",
+      "partition": "train",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9002_9202_J-ROW16",
+      "partition": "validation",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9002_9202_J-ROW16",
+      "partition": "test",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9002_9202_J-GROUP16",
+      "partition": "train",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9002_9202_J-GROUP16",
+      "partition": "validation",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9002_9202_J-GROUP16",
+      "partition": "test",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9003_9201_J-ROW16",
+      "partition": "train",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9003_9201_J-ROW16",
+      "partition": "validation",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9003_9201_J-ROW16",
+      "partition": "test",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9003_9201_J-GROUP16",
+      "partition": "train",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9003_9201_J-GROUP16",
+      "partition": "validation",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9003_9201_J-GROUP16",
+      "partition": "test",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9003_9202_J-ROW16",
+      "partition": "train",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9003_9202_J-ROW16",
+      "partition": "validation",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9003_9202_J-ROW16",
+      "partition": "test",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9003_9202_J-GROUP16",
+      "partition": "train",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9003_9202_J-GROUP16",
+      "partition": "validation",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    },
+    {
+      "model": "9003_9202_J-GROUP16",
+      "partition": "test",
+      "absolute_differences": {
+        "accuracy": 0.0,
+        "A_code": 0.0,
+        "I_V_M_given_q": 0.0
+      },
+      "passed": true
+    }
+  ]
+}
