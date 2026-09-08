@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "denied_probes": [
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/results/cm03/20260908-cm03-injective-adaptation/summary.json",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/evaluation_only/evaluation_only.npz",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/models/9001_9201_J-GROUP16/checkpoint.pt"
+  ],
+  "historical_checkpoint_loaded": false,
+  "historical_labels_parsed": false,
+  "input_hashes_unchanged": true,
+  "note": "Existing evidence was byte-hashed before protected execution; no historical contents parsed"
+}

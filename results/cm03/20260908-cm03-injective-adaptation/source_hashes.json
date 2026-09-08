@@ -1,0 +1,9 @@
+{
+  "src/cm03/__init__.py": "b3ca6372467e264811ed7b802f425c7152f6efa777e5ec9827aae8401c91182d",
+  "src/cm03/audit.py": "8f7f5ad5500b8398b384d501d638af94b223a9159619268b2a292cf953d9c52b",
+  "src/cm03/protocols.py": "9a4982dceccfcc1a9f90fd73072ed51ec26c80dd59605e48178c643af4a77e0e",
+  "src/cm03/run.py": "c362b12de2d85f21b93b9fc67e1e65718869f6c48d7b85c49783eb9f69e50dc8",
+  "src/cm03/training.py": "1355fc7ebb3998550138002a0ffb57e3c754956bba375859b90d2ac42bf592fe",
+  "tests/test_cm03.py": "25273b787333b7d6e393075ccd73ca9cc3c678c6413fc3ebe4eee1b391369755",
+  "docs/experiment-plans/cm03-injective-adaptation.zh-CN.md": "240a825aee0e651fe4c3ea160df847db4b410dea126145b958783cf3f21bd931"
+}

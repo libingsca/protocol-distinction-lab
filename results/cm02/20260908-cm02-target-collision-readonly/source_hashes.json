@@ -1,0 +1,10 @@
+{
+  "src/cm02/__init__.py": "1421650df6968a3e8a63c47f46fde44030b22db5b07d15f22c92300f3820f339",
+  "src/cm02/audit.py": "687e318c392a5e4fce6acccc7a761ec208eabdb6dbd681a1ab4bb319b3363ce1",
+  "src/cm02/metrics.py": "a18dabf979961b5518bb993e75bce1191be65e20dd17a0ec3bd93737584da27b",
+  "src/cm02/run.py": "999832b5a4437f13b86b89128a40b5c432354ac139d6f77e8cf1fa1553812dd8",
+  "tests/test_cm02.py": "7f3bb1dfb88dacc5faf52939fd9c41c7f531fef8fe867a83239e8f79dd00bd52",
+  "src/cm01_rp/run.py": "323eb989637d63f9abbc81e4250be0edbb673f5a412cedda34a90ee14b4e565b",
+  "src/cm01_rp/metrics.py": "f830bba26a6cb4c60a4722aa1af8f81eea3212faf0d1ea3a293e2738e6697ab5",
+  "docs/experiment-plans/cm02-target-collision-diagnostic.zh-CN.md": "7a5efb80cfa390e0bea67525fc56f1d93b5d52c58485ad482bd7c49b741a8aa6"
+}

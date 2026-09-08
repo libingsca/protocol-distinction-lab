@@ -1,0 +1,151 @@
+{
+  "passed": true,
+  "model_count": 6,
+  "models": [
+    {
+      "model": "9001_9201_J-GROUP16",
+      "passed": true,
+      "scalar_BCE_max_error": 8.881784197001252e-16,
+      "numpy_forward_BCE_max_error": 1.7784277694943285e-07,
+      "conditions": [
+        {
+          "q": 0,
+          "K": 4,
+          "F": 1.0,
+          "hall_verified": true,
+          "assignment_optima_verified": true,
+          "renaming_passed": true
+        },
+        {
+          "q": 1,
+          "K": 4,
+          "F": 1.0,
+          "hall_verified": true,
+          "assignment_optima_verified": true,
+          "renaming_passed": true
+        }
+      ]
+    },
+    {
+      "model": "9001_9202_J-GROUP16",
+      "passed": true,
+      "scalar_BCE_max_error": 8.881784197001252e-16,
+      "numpy_forward_BCE_max_error": 2.3271193683171987e-07,
+      "conditions": [
+        {
+          "q": 0,
+          "K": 4,
+          "F": 1.0,
+          "hall_verified": true,
+          "assignment_optima_verified": true,
+          "renaming_passed": true
+        },
+        {
+          "q": 1,
+          "K": 4,
+          "F": 1.0,
+          "hall_verified": true,
+          "assignment_optima_verified": true,
+          "renaming_passed": true
+        }
+      ]
+    },
+    {
+      "model": "9002_9201_J-GROUP16",
+      "passed": true,
+      "scalar_BCE_max_error": 8.881784197001252e-16,
+      "numpy_forward_BCE_max_error": 3.141381563764867e-07,
+      "conditions": [
+        {
+          "q": 0,
+          "K": 6,
+          "F": 1.0,
+          "hall_verified": true,
+          "assignment_optima_verified": true,
+          "renaming_passed": true
+        },
+        {
+          "q": 1,
+          "K": 7,
+          "F": 1.0,
+          "hall_verified": true,
+          "assignment_optima_verified": true,
+          "renaming_passed": true
+        }
+      ]
+    },
+    {
+      "model": "9002_9202_J-GROUP16",
+      "passed": true,
+      "scalar_BCE_max_error": 8.881784197001252e-16,
+      "numpy_forward_BCE_max_error": 2.6033178279760705e-07,
+      "conditions": [
+        {
+          "q": 0,
+          "K": 6,
+          "F": 1.0,
+          "hall_verified": true,
+          "assignment_optima_verified": true,
+          "renaming_passed": true
+        },
+        {
+          "q": 1,
+          "K": 6,
+          "F": 1.0,
+          "hall_verified": true,
+          "assignment_optima_verified": true,
+          "renaming_passed": true
+        }
+      ]
+    },
+    {
+      "model": "9003_9201_J-GROUP16",
+      "passed": true,
+      "scalar_BCE_max_error": 8.881784197001252e-16,
+      "numpy_forward_BCE_max_error": 2.402261864986599e-07,
+      "conditions": [
+        {
+          "q": 0,
+          "K": 4,
+          "F": 1.0,
+          "hall_verified": true,
+          "assignment_optima_verified": true,
+          "renaming_passed": true
+        },
+        {
+          "q": 1,
+          "K": 4,
+          "F": 1.0,
+          "hall_verified": true,
+          "assignment_optima_verified": true,
+          "renaming_passed": true
+        }
+      ]
+    },
+    {
+      "model": "9003_9202_J-GROUP16",
+      "passed": true,
+      "scalar_BCE_max_error": 8.881784197001252e-16,
+      "numpy_forward_BCE_max_error": 2.637141234274054e-07,
+      "conditions": [
+        {
+          "q": 0,
+          "K": 7,
+          "F": 1.0,
+          "hall_verified": true,
+          "assignment_optima_verified": true,
+          "renaming_passed": true
+        },
+        {
+          "q": 1,
+          "K": 7,
+          "F": 1.0,
+          "hall_verified": true,
+          "assignment_optima_verified": true,
+          "renaming_passed": true
+        }
+      ]
+    }
+  ],
+  "scope": "Independent algorithms by same agent; not external replication"
+}

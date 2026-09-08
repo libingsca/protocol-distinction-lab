@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "existing_evidence_files_checked": 243,
+  "existing_evidence_unchanged": true,
+  "sources_unchanged": true,
+  "elapsed_seconds_including_audit": 22.185666111996397,
+  "peak_rss_bytes": 238940160,
+  "within_budget": true
+}

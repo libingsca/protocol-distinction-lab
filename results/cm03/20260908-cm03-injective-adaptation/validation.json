@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "tests": 31,
+  "cm03_tests": 6,
+  "test_exit_code": 0,
+  "test_elapsed_seconds": 2.754,
+  "test_command": "PYTHONPATH=src OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 MKL_NUM_THREADS=1 VECLIB_MAXIMUM_THREADS=1 outputs/cm01_rp/runtime/bin/python -m unittest discover -s tests -v",
+  "raw_test_output": "tests.txt",
+  "raw_execution_output": "execution.txt",
+  "git_diff_check_passed": true,
+  "frozen_source_copies_match": true,
+  "protocol_hashes_match": true,
+  "all_curve_copies_consistent": true,
+  "preexisting_evidence_unchanged": true,
+  "failure_record_present": false
+}

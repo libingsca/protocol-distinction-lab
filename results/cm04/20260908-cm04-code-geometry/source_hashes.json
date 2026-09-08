@@ -1,0 +1,8 @@
+{
+  "src/cm04/__init__.py": "a114dcfb652332c5d051b14efe387f78ede67570a08996519e3465bb3d6116ef",
+  "src/cm04/audit.py": "50b1889acd97fbac19963737096eeadc1d63c1f079221a3eb34bc3f714271e21",
+  "src/cm04/core.py": "9af6216371269df1f0903a58d0e85cf3a31c7c85967e99425df1b41465777b0c",
+  "src/cm04/run.py": "58633541bd4cd3073583cfdaab917ef0909d8b3548ffbbe56d8e0f02687d6b55",
+  "tests/test_cm04.py": "78cb0b023bb25c86c1bea89582b2f907ae0e37853dbe70483e7836422e523633",
+  "docs/experiment-plans/cm04-code-geometry.zh-CN.md": "bd92d5a7c7382647ddd9802f2a6cb0c5af4a8a6d8fc29524562d45ae3d09e895"
+}

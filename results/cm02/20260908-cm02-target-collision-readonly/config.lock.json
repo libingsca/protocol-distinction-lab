@@ -1,0 +1,25 @@
+{
+  "experiment": "CM02",
+  "run_id": "20260908-cm02-target-collision-readonly",
+  "splits": [
+    9001,
+    9002,
+    9003
+  ],
+  "inits": [
+    9201,
+    9202
+  ],
+  "arm": "J-GROUP16",
+  "epsilon_BCE": 0.0001,
+  "edge_tolerance": 1e-10,
+  "behavior_fit_min": 0.99,
+  "primary": "maximum near-optimal matching K_q < 16",
+  "seconds_max": 1800,
+  "memory_bytes_max": 4294967296,
+  "threads": 1,
+  "train_steps": 0,
+  "precision": "float32 forward; stable float64 BCE and group means",
+  "memory_enforcement": "RSS high-water monitor every 0.1s; SIGUSR1 abort",
+  "plan": "docs/experiment-plans/cm02-target-collision-diagnostic.zh-CN.md"
+}

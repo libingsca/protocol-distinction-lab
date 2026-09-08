@@ -1,0 +1,18 @@
+{
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/frozen_sources/core.py": "0a3739f11cd21540c08bf5e007102796697238969de30c732a47c48798d703e8",
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/training_data/train_9001.npz": "2e530116ccb874987f4a7267334a54ac7891b10850ca2aa7355c86b049290fc9",
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/training_data/train_9002.npz": "1e2522009e5d36ae54cdacc98a43cbde004374639237380d5727c37497ba8d76",
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/training_data/train_9003.npz": "a58bc89d00ebb4c3a37779016087de3aed0a62360c4b0413a533974d9ff35646",
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/models/9001_9201_J-GROUP16/checkpoint.pt": "6fabf5dd91e1ccbe2f164f48ebe0204b26876577e0227d442f00cf7c193aaedf",
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/models/9001_9202_J-GROUP16/checkpoint.pt": "53278153fa09945a07f22aa8f051337a9ed4ed23fed9b7a0e953bf1380d160a5",
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/models/9002_9201_J-GROUP16/checkpoint.pt": "c503dc6f1a58b2ed2936d6c27c9f7e7c6342fed0c3b2613d5dd06bdec7a5b91e",
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/models/9002_9202_J-GROUP16/checkpoint.pt": "5d22747a3edd06851631ef6e98da8a014e886fc64f907f59a28c6abdc21fa09b",
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/models/9003_9201_J-GROUP16/checkpoint.pt": "8045a49ab5c77f0d8345510da72cc743399831abf1f3e5a7a13f3b8510173132",
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/models/9003_9202_J-GROUP16/checkpoint.pt": "f4644b7f87d4639e60c17d1d03d77015f9754841c4a34ada78dd830d10190b9f",
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/results/cm02/20260908-cm02-target-collision-readonly/9001_9201_J-GROUP16.json": "9b8d9d31ffba58f74a00d6b743a7f350d488ce3b8785b4995768c171a4783baf",
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/results/cm02/20260908-cm02-target-collision-readonly/9001_9202_J-GROUP16.json": "3165c0263d2e0d09007db2da43e79c98549a3fe7a6065afcc63ab05c2f73897e",
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/results/cm02/20260908-cm02-target-collision-readonly/9002_9201_J-GROUP16.json": "f583d6832d70a3671ec522a9b2d18b1f63d4bc28f9ce350af3412fa5fa4fb896",
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/results/cm02/20260908-cm02-target-collision-readonly/9002_9202_J-GROUP16.json": "4d6b49db7321ceaf90a9128756e630693583562613df183309a5c8b834307d83",
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/results/cm02/20260908-cm02-target-collision-readonly/9003_9201_J-GROUP16.json": "c8b4da7a1909c8db15bf6819148ed2ec8c3916c2a03d7a62a6803e23911e66ac",
+  "/Users/bing/workspace/libing.sca/protocol-distinction-lab/results/cm02/20260908-cm02-target-collision-readonly/9003_9202_J-GROUP16.json": "6b6395aa14808d16e8888a7420b2a8b5e2027efbbaec81e5ac15636cd5413dfb"
+}

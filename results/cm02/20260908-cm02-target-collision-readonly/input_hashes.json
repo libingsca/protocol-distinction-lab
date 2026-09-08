@@ -1,0 +1,13 @@
+{
+  "frozen_sources/core.py": "0a3739f11cd21540c08bf5e007102796697238969de30c732a47c48798d703e8",
+  "frozen_sources/group_targets2.py": "80268a57e5b886a55c4e379074bc78d0790771ed94012cafbb8d7bfde12e7683",
+  "training_data/train_9001.npz": "2e530116ccb874987f4a7267334a54ac7891b10850ca2aa7355c86b049290fc9",
+  "models/9001_9201_J-GROUP16/checkpoint.pt": "6fabf5dd91e1ccbe2f164f48ebe0204b26876577e0227d442f00cf7c193aaedf",
+  "models/9001_9202_J-GROUP16/checkpoint.pt": "53278153fa09945a07f22aa8f051337a9ed4ed23fed9b7a0e953bf1380d160a5",
+  "training_data/train_9002.npz": "1e2522009e5d36ae54cdacc98a43cbde004374639237380d5727c37497ba8d76",
+  "models/9002_9201_J-GROUP16/checkpoint.pt": "c503dc6f1a58b2ed2936d6c27c9f7e7c6342fed0c3b2613d5dd06bdec7a5b91e",
+  "models/9002_9202_J-GROUP16/checkpoint.pt": "5d22747a3edd06851631ef6e98da8a014e886fc64f907f59a28c6abdc21fa09b",
+  "training_data/train_9003.npz": "a58bc89d00ebb4c3a37779016087de3aed0a62360c4b0413a533974d9ff35646",
+  "models/9003_9201_J-GROUP16/checkpoint.pt": "8045a49ab5c77f0d8345510da72cc743399831abf1f3e5a7a13f3b8510173132",
+  "models/9003_9202_J-GROUP16/checkpoint.pt": "f4644b7f87d4639e60c17d1d03d77015f9754841c4a34ada78dd830d10190b9f"
+}

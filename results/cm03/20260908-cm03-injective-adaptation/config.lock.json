@@ -1,0 +1,54 @@
+{
+  "experiment": "CM03",
+  "run_id": "20260908-cm03-injective-adaptation",
+  "splits": [
+    9001,
+    9002,
+    9003
+  ],
+  "inits": [
+    9201,
+    9202
+  ],
+  "branches": [
+    "original",
+    "target",
+    "random1",
+    "random2",
+    "random3"
+  ],
+  "steps": 100,
+  "batch_rows": 4096,
+  "optimizer": {
+    "lr": 0.001,
+    "betas": [
+      0.9,
+      0.999
+    ],
+    "eps": 1e-08,
+    "weight_decay": 0
+  },
+  "threads": 1,
+  "seconds_max": 3600,
+  "memory_bytes_max": 4294967296,
+  "memory_enforcement": "RSS high-water sampling every 0.1s; abort via SIGUSR1",
+  "primary": {
+    "models_min": 5,
+    "C0_max": -0.01,
+    "C100_min": 0.01,
+    "G100_min": 0.05
+  },
+  "secondary": {
+    "models_min": 5,
+    "selection_advantage_min": 0.01
+  },
+  "candidate_max_attempts": 10000,
+  "random_seed": "73001+100*model_index+10*q+k",
+  "plan": "docs/experiment-plans/cm03-injective-adaptation.zh-CN.md",
+  "scope": "Oracle training-label injective code; receiver-only adaptation; no held-out evaluation",
+  "audit_tolerance": {
+    "logits": 0.0001,
+    "BCE": 1e-06,
+    "decisions": "exact"
+  }
+}

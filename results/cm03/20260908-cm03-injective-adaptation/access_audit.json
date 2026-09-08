@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "reads": [
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/frozen_sources/core.py",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/models/9001_9201_J-GROUP16/checkpoint.pt",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/models/9001_9202_J-GROUP16/checkpoint.pt",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/models/9002_9201_J-GROUP16/checkpoint.pt",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/models/9002_9202_J-GROUP16/checkpoint.pt",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/models/9003_9201_J-GROUP16/checkpoint.pt",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/models/9003_9202_J-GROUP16/checkpoint.pt",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/training_data/train_9001.npz",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/training_data/train_9002.npz",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/training_data/train_9003.npz",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/results/cm02/20260908-cm02-target-collision-readonly/9001_9201_J-GROUP16.json",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/results/cm02/20260908-cm02-target-collision-readonly/9001_9202_J-GROUP16.json",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/results/cm02/20260908-cm02-target-collision-readonly/9002_9201_J-GROUP16.json",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/results/cm02/20260908-cm02-target-collision-readonly/9002_9202_J-GROUP16.json",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/results/cm02/20260908-cm02-target-collision-readonly/9003_9201_J-GROUP16.json",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/results/cm02/20260908-cm02-target-collision-readonly/9003_9202_J-GROUP16.json"
+  ],
+  "denied_probes": [
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/evaluation_only/evaluation_only.npz",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/outputs/cm01_rp/assets-20260908/02_实验资产/historical_run/metrics.json",
+    "/Users/bing/workspace/libing.sca/protocol-distinction-lab/results/cm02/20260908-cm02-target-collision-readonly/summary.json"
+  ],
+  "input_hashes_unchanged": true,
+  "protocol_hashes_unchanged": true,
+  "evaluation_labels_parsed": false
+}

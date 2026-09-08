@@ -12,6 +12,9 @@
 | CM00 三轮正式结果 | `results/cm00/<run_id>/` | 只读 |
 | PB01 正式结果 | `results/pb01/20260908-pb01/` | 只读 |
 | CM01-RP 正式结果 | `results/cm01_rp/20260908-cm01-rp-readonly/` | 结构阳性 0/6，审计通过 |
+| CM02 正式结果 | `results/cm02/20260908-cm02-target-collision-readonly/` | 12/12 条件 K<16、F=1；独立算法审计通过，不等于外部复现 |
+| CM03 正式结果 | `results/cm03/20260908-cm03-injective-adaptation/` | 主门槛 0/6；30 分支、3,000 步；候选与端点独立算法审计通过 |
+| CM04 正式结果 | `results/cm04/20260908-cm04-code-geometry/` | 主比较 28/30、24/30、25/30；90 个等价性对照与独立算法审计通过 |
 | 历史最小诊断资产包 | `evidence_readonly/joint02_minimal_assets/20260908/` | 新补齐原包；131 项校验通过 |
 | 四个阶段原始归档 | `evidence_readonly/checkpoint_archives/` | 只读；由 `SHA256SUMS` 校验 |
 | 总架构、预注册和实验计划 | `docs/` | 文档演进须通过新文件或明确修订记录 |

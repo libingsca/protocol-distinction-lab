@@ -24,3 +24,18 @@ outputs/
 *.tmp
 *.log
 *.partial
+*.partial.json
+*.bak
+*.swp
+*~
+
+# Packaging artifacts
+build/
+dist/
+.eggs/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml

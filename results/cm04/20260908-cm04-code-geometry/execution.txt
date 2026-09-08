@@ -1,0 +1,33 @@
+Four encodings, 512 rows and 30 initializations frozen before first update.
+seed 60 bit pass [True, True, True] one-hot control True
+seed 61 bit pass [True, True, True] one-hot control True
+seed 62 bit pass [True, True, True] one-hot control True
+seed 63 bit pass [True, False, True] one-hot control True
+seed 64 bit pass [True, False, False] one-hot control True
+seed 65 bit pass [True, True, True] one-hot control True
+seed 66 bit pass [True, True, True] one-hot control True
+seed 67 bit pass [True, True, True] one-hot control True
+seed 68 bit pass [True, True, True] one-hot control True
+seed 69 bit pass [True, False, True] one-hot control True
+seed 70 bit pass [True, True, False] one-hot control True
+seed 71 bit pass [True, True, True] one-hot control True
+seed 72 bit pass [True, True, False] one-hot control True
+seed 73 bit pass [True, True, True] one-hot control True
+seed 74 bit pass [True, True, True] one-hot control True
+seed 75 bit pass [True, False, True] one-hot control True
+seed 76 bit pass [True, True, True] one-hot control True
+seed 77 bit pass [True, False, False] one-hot control True
+seed 78 bit pass [True, True, True] one-hot control True
+seed 79 bit pass [True, True, True] one-hot control True
+seed 80 bit pass [True, False, True] one-hot control True
+seed 81 bit pass [True, True, True] one-hot control True
+seed 82 bit pass [False, True, True] one-hot control True
+seed 83 bit pass [True, True, True] one-hot control True
+seed 84 bit pass [True, True, True] one-hot control True
+seed 85 bit pass [False, True, True] one-hot control True
+seed 86 bit pass [True, True, True] one-hot control True
+seed 87 bit pass [True, True, False] one-hot control True
+seed 88 bit pass [True, True, True] one-hot control True
+seed 89 bit pass [True, True, True] one-hot control True
+Training completed; auditing 480 endpoints and every control trajectory.
+Audited verdict: primary_passed {'bit_joint_pass_counts': {'E1': 28, 'E2': 24, 'E3': 25}, 'bit_numeric_gate_passed': True, 'control_passed': True, 'mechanism_claim_allowed': True, 'primary_passed': True, 'branches_completed': 240, 'updates_completed': 24000}

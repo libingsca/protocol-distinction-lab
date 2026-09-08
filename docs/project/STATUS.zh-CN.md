@@ -17,14 +17,22 @@
 | PB01 | 完成，未完整通过 | 30/30 种子复现损失信用成熟；`T=2` 准确率未跃迁 | 独立确认双时间尺度 |
 | PB02 | 完成，主判据 7/7 通过 | 30/30 损失转正；29/30 在 T=4 准确率达标 | 已完成独立审计与报告 |
 | CM01-RP | 完成，结构阳性 0/6 | 无实际占用近义消息对；审计通过 | 终止历史改写分支；保留阴性结果 |
+| CM02 | 完成，12/12 条件结构阳性 | K=4–7，F=1；独立算法审计通过 | 规划 CM03 受控适应，不外推自主形成 |
+| CM03 | 完成，主门槛 0/6，通过审计 | C100 全负；1/6 准确率达标；次要候选优势 6/6 | 终止当前候选/预算迁移分支，保留阴性 |
+| CM04 | 完成，主判据通过，审计通过 | E1/E2/E3 达标 28/30、24/30、25/30；全部等价性对照通过 | 规划 CM05 训练反馈选择诊断，不外推自主形成 |
+| CM05 | 已规划，未执行 | 待检验少量初始化的损失评分能否跨初始化选择更易学编码 | 冻结随机候选池、无反馈基线和复核种子 |
 
 ## 当前优先级
 
 1. PB02 正式结果：`results/pb02/20260908-pb02-independent-confirmation/FINAL_RESULTS_REPORT.md`。
 2. 保留宽度 4、线性 receiver 在固定 T=4 的负结果；主实验通过不能外推具体时间点。
 3. CM01-RP 已完成：`results/cm01_rp/20260908-cm01-rp-readonly/FINAL_RESULTS_REPORT.md`。六模型均未通过冻结结构门槛，不进入 A/B/C/D。
-4. 分流决定：终止该历史机制迁移分支，当前无已排定下一轮；详见 [CM01-RP 分流决策](CM01-RP_DECISION.zh-CN.md)。
+4. 最新分流决定：CM04 相对可学习性主判据与等价性对照通过，规划但不执行 CM05。详见 [CM04 分流决策](CM04_DECISION.zh-CN.md) 与 [CM05 计划](../experiment-plans/cm05-feedback-selection.zh-CN.md)。CM03 和 CM01-RP 原分支继续终止，CM02 静态结论保留。
 5. 历史资产包已补齐、131 项校验通过；12 模型×3 分区最终评价复核通过。
+6. CM02 正式结果：`results/cm02/20260908-cm02-target-collision-readonly/FINAL_RESULTS_REPORT.md`；计划为 [CM02 计划](../experiment-plans/cm02-target-collision-diagnostic.zh-CN.md)。12 条件是六模型内的配对条件，不是独立重复。
+7. CM03 正式结果：`results/cm03/20260908-cm03-injective-adaptation/FINAL_RESULTS_REPORT.md`；冻结计划为 [CM03 计划](../experiment-plans/cm03-injective-adaptation.zh-CN.md)。完成 30 分支、3,000 次更新；不得以次要随机对照优势替代主门槛失败。
+8. CM04 正式结果：`results/cm04/20260908-cm04-code-geometry/FINAL_RESULTS_REPORT.md`；固定计划为 [CM04 计划](../experiment-plans/cm04-code-geometry.zh-CN.md)。bit E0 准确率中位数仅 0.341797，阳性仅限相对优势。
+9. CM05 新 run_id：`20260908-cm05-feedback-selection`，已规划未执行。外部双射支架与完整训练表评分必须披露，不将受约束候选搜索称为自主协议形成。
 
 ## 冻结的 PB02 参数
 
